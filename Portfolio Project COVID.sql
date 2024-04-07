@@ -2,9 +2,9 @@ select *
 from PortfolioProjectSQL..CovidDeaths$
 order by 3,4
 
---select *
---from PortfolioProjectSQL..CovidVaccinations$
---order by 3,4
+select *
+from PortfolioProjectSQL..CovidVaccinations$
+order by 3,4
 
 ----Select data we are going to be using
 
